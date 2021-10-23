@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+}
+.keeper-head {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #2c2c;
+  box-shadow: 0px 10px 10px rgb(70, 54, 57);
+  margin: 0px;
+  padding: 4%;
+  color: #fff;
+}
+.keeper-foot {
+  position: absolute;
+  bottom: 0px;
+  background-color: #f1f1ff;
+  box-shadow: 0px 5px 15px rgb(148, 51, 69);
+  width: 100%;
+  margin: 0%;
+  text-align: center;
+  padding: 2%;
+  background-color: gray;
+  color: #ccc;
+}
+.note {
+  background-color: #4c9da0;
+  margin: 2%;
+  padding: 5%;
+  width: 25%;
+}
+.note p {
+  color: #fff;
+}
